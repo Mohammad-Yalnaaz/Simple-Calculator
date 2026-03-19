@@ -22,7 +22,7 @@ CSS
 JavaScript (Vanilla)
 
 <h2>🚀 Live Demo</h2>
-<a href="https://127.0.0.1:3000/c:/Users/reply/OneDrive/Desktop/WebDev/Calculator/index.html" target="_blank">Click here to view</a>
+<a href="https://mohammad-yalnaaz.github.io/Simple-Calculator/" target="_blank" rel="noopener noreferrer">Click here to view</a>
 <h2>📸 Preview</h2>
 [Calculator App Preview] (You can add an image link here later)
 
