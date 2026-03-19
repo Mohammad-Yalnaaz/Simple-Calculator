@@ -28,7 +28,7 @@ JavaScript (Vanilla)
 
 <h2>⚙️ Setup</h2>
 
-Clone the repo: git clone https://github.com/yourusername/calculator-app.git
+Clone the repo: git clone https://github.com/Mohammad-Yalnaaz/calculator-app.git
 
 Navigate to the project folder.
 
