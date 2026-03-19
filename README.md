@@ -1,38 +1,35 @@
-Simple Calculator:
+<h1>🧮 Calculator App</h1>
+A sleek and responsive calculator application that performs basic mathematical operations with a clean, modern user interface.
 
 
-A clean and responsive Calculator Web App built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations with a user-friendly interface.
+<h2>✨ Features</h2>
+
+Perform basic math (addition, subtraction, multiplication, division)
+
+Clear (AC) and delete (DEL) functions for easy corrections
+
+Keyboard support for quick typing of numbers and operators
+
+Fully responsive design for both mobile and desktop screens
 
 
-Features:
+<h2>🛠️ Built With</h2>
 
+HTML
 
-➕ Addition
-➖ Subtraction
-✖️ Multiplication
-➗ Division
-🧹 Clear / Reset functionality
+CSS
 
+JavaScript (Vanilla)
 
-Tech Stack:
+<h2>🚀 Live Demo</h2>
+<a href="https://127.0.0.1:3000/c:/Users/reply/OneDrive/Desktop/WebDev/Calculator/index.html" target="_blank">Click here to view</a>
+<h2>📸 Preview</h2>
+[Calculator App Preview] (You can add an image link here later)
 
+<h2>⚙️ Setup</h2>
 
-1)HTML – Structure
-2)CSS – Styling and layout
-3)JavaScript – Functionality and logic
+Clone the repo: git clone https://github.com/yourusername/calculator-app.git
 
-Preview:
+Navigate to the project folder.
 
-
-<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/dd814910-34f0-4962-a300-65cde9bb82c7" />
-
-
-Project Structure:
-
-calculator/
-
-│── index.html
-
-│── style.css
-
-│── script.js
+Open index.html in your browser to start calculating.
