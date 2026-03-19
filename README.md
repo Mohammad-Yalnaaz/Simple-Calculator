@@ -24,11 +24,12 @@ JavaScript (Vanilla)
 <h2>🚀 Live Demo</h2>
 <a href="https://mohammad-yalnaaz.github.io/Simple-Calculator/" target="_blank" rel="noopener noreferrer">Click here to view</a>
 <h2>📸 Preview</h2>
-[Calculator App Preview] (You can add an image link here later)
+<img width="1914" height="873" alt="image" src="https://github.com/user-attachments/assets/5e363958-4948-4bd7-930b-f47cbcad6215" />
+
 
 <h2>⚙️ Setup</h2>
 
-Clone the repo: git clone https://github.com/Mohammad-Yalnaaz/calculator-app.git
+Clone the repo: git clone git clone https://github.com/Mohammad-Yalnaaz/Simple-Calculator.git
 
 Navigate to the project folder.
 
